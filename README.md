@@ -13,6 +13,7 @@ Prediction of AQI of the region
 
 
 Maps showed the Hotspots
+
 ![WhatsApp Image 2023-03-19 at 10 24 50 AM](https://user-images.githubusercontent.com/91048746/229347109-3f8ae4f1-965f-4772-abfe-1b551df324a7.jpeg)
 
 
