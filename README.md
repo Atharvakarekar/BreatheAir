@@ -12,8 +12,9 @@ Prediction of AQI of the region
 
 
 Maps showed the Hotspots
-![WhatsApp Image 2023-03-19 at 10 20 18 AM](https://user-images.githubusercontent.com/91048746/229346960-7b7f9e62-d73e-4578-9d44-3917f2d6d0c7.jpeg)
+![WhatsApp Image 2023-03-19 at 10 20 18 AM](https://user-images.githubusercontent.com/91048746/229347028-7ad5e855-6671-4164-a448-cca9b3771948.jpeg)
 
 
 Dataset Visualization using Streamlit
-![WhatsApp Image 2023-03-19 at 10 58 24 AM](https://user-images.githubusercontent.com/91048746/229346975-85b6412d-dfbc-4145-9dcc-1f1daec8fc2d.jpeg)
+
+![WhatsApp Image 2023-03-19 at 11 45 39 AM](https://user-images.githubusercontent.com/91048746/229347049-0f649999-f014-462d-b97f-e29d98f8771a.jpeg)
